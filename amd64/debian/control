@@ -1,0 +1,14 @@
+Source: opencpn-sglock-amd64
+Section: misc
+Priority: optional
+Build-Depends: debhelper-compat(= 12), libusb-dev
+Standards-Version: 4.6.2
+Rules-Requires-Root: no
+Maintainer: Alec Leamas <leamas@nowhere.net>
+
+Package: opencpn-sglock-amd64
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Provides: opencpn-sglock [amd64]
+Description: SGLock Dongle support library
+ Closed-source DRM library for the opencpn o-charts plugin

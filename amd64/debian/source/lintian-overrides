@@ -1,0 +1,2 @@
+# This is a closed source DRM library handling specific hardware
+source-is-missing [sglock/libsgllnx64-2.29.02.so]

@@ -1,0 +1,111 @@
+
+END USER LICENSE AGREEMENT
+NOTICE: THIS SOFTWARE END USER LICENSE AGREEMENT (“EULA”) IS A LEGAL
+AGREEMENT BETWEEN YOU (EITHER AS AN INDIVIDUAL OR AN ENTITY) AND TBD.
+PLEASE READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND
+USING THE SOFTWARE. THIS AGREEMENT PROVIDES A LICENSE TO USE THE SOFTWARE
+AND CONTAINS WARRANTY INFORMATION AND LIABILITY DISCLAIMERS. BY
+INSTALLING AND USING THE SOFTWARE, YOU ARE CONFIRMING YOUR ACCEPTANCE OF
+THE SOFTWARE AND AGREEING TO BECOME BOUND BY THE TERMS OF THIS
+AGREEMENT. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, THEN DO NOT
+INSTALL THE SOFTWARE AND RETURN THE SOFTWARE TO TBD 
+1. Recitals
+a. This End User License Agreement ("EULA") is a legal agreement between you (either an
+individual person or a single legal entity, who will be referred to in this EULA as "End
+User", and Tbd company (TBD) for the sglock library ("Software")
+that accompanies this EULA.
+b. The Software or Freeware also includes any software updates
+that TBD may provide to End User or make available to End
+User after the date End User obtains the initial copy of the Software or Freeware, to the
+extent that such items are not accompanied by a separate license agreement or terms of
+use. By installing, copying, downloading, accessing or otherwise using the Software or
+Freeware, End User agrees to be bound by the terms of this EULA. If End User does not
+agree to the terms of this EULA, End User should not install, access or use the Software
+or Freeware.
+2. License Grants
+a. Freeware License. GSL grants End User an unlimited license to use the Freeware. The
+install packages for the Freeware can be redistributed without restriction, and can be used
+for both commercial and non-commercial purposes.
+3. License Restrictions
+a. You may not alter, merge, modify, adapt, translate, decompile, reverse engineer,
+disassemble, or otherwise reduce the Software to a human-perceivable form.
+b. You may not rent, lease, or sublicense the Software.
+c. You may not create derivative works based upon the Software.
+d. In the event that you fail to comply with this EULA, TBD and its suppliers may, in
+addition to seeking any damages, terminate the license. Upon termination, you must
+destroy all copies of the Software (with all other rights of both parties and all other
+provisions of this EULA surviving any such termination).
+4. Ownership
+The foregoing license gives End User a limited license to use the Software. TBD retains all rights,
+title and interest, including all copyright and intellectual property rights, in and to the Software
+and all copies thereof. The Software is protected by the copyright laws of the United States and
+other countries. All rights not expressly granted in this EULA are reserved by GSL.
+5. LIMITED WARRANTY AND DISCLAIMER
+.
+
+a. TBD DISCLAIMS ALL WARRANTIES
+AND REPRESENTATIONS, WHETHER EXPRESS, IMPLIED, OR OTHERWISE,
+INCLUDING THE WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE. ALSO, THERE IS NO WARRANTY OF NON-
+INFRINGEMENT AND TITLE OR QUIET ENJOYMENT. GSL DOES NOT
+WARRANT THAT THE SOFTWARE IS ERROR-FREE OR WILL OPERATE
+WITHOUT INTERRUPTION. THE SOFTWARE IS NOT DESIGNED, INTENDED
+OR LICENSED FOR USE IN HAZARDOUS ENVIRONMENTS REQUIRING FAIL-
+SAFE CONTROLS.
+b. IF APPLICABLE LAW REQUIRES ANY WARRANTIES WITH RESPECT TO THE
+SOFTWARE, ALL SUCH WARRANTIES ARE LIMITED IN DURATION TO
+NINETY (90) DAYS FROM THE DATE OF DELIVERY.
+c. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY GSL SHALL
+CREATE A WARRANTY OR IN ANY WAY INCREASE THE SCOPE OF ANY
+WARRANTY PROVIDED HEREIN.
+d. (USA only) SOME STATES DO NOT ALLOW THE EXCLUSION OF IMPLIED
+WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO YOU. THIS
+WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS AND YOU MAY ALSO
+HAVE OTHER LEGAL RIGHTS THAT VARY FROM STATE TO STATE.
+
+6. LIMITATION OF LIABILITY
+.
+a. TBD SHALL NOT BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY
+INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, COVER OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR THE
+INABILITY TO USE EQUIPMENT OR ACCESS DATA, LOSS OF BUSINESS, LOSS
+OF PROFITS, BUSINESS INTERRUPTION OR THE LIKE), ARISING OUT OF THE
+USE OF, OR INABILITY TO USE, THE SOFTWARE AND BASED ON ANY
+THEORY OF LIABILITY INCLUDING BREACH OF CONTRACT, BREACH OF
+WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR
+OTHERWISE, EVEN IF GSL OR ITS REPRESENTATIVES HAVE BEEN ADVISED
+OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF A REMEDY SET
+FORTH HEREIN IS FOUND TO HAVE FAILED IN ITS ESSENTIAL PURPOSE.
+b. GSL'S TOTAL LIABILITY TO YOU FOR ACTUAL DAMAGES FOR ANY CAUSE
+WHATSOEVER WILL BE LIMITED TO THE AMOUNT YOU PAID FOR THE
+SOFTWARE.
+c. (USA only) SOME STATES DO NOT ALLOW THE LIMITATION OR EXCLUSION
+OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE
+ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU AND YOU
+MAY ALSO HAVE OTHER LEGAL RIGHTS THAT VARY FROM STATE TO
+STATE.
+d. THE FOREGOING LIMITATIONS ON LIABILITY ARE INTENDED TO APPLY TO
+THE WARRANTIES AND DISCLAIMERS ABOVE AND ALL OTHER ASPECTS
+OF THIS EULA.
+8. U.S. GOVERNMENT RESTRICTED RIGHTS LEGEND
+This Software and the documentation are provided with "RESTRICTED RIGHTS” applicable to
+private and public licenses alike. Without limiting the foregoing, use, duplication, or disclosure by
+the U.S. Government is subject to restrictions as set forth in this EULA and as provided in DFARS
+227.7202-1(a) and 227.7202-3(a) (1995), DFARS 252.227-7013 (c)(1)(ii)(OCT 1988), FAR
+12.212(a)(1995), FAR 52.227-19, or FAR 52.227-14, as applicable. Manufacturer: GSL Biotech
+LLC
+9. General
+This EULA shall be governed by the internal laws of the State of Illinois, USA. In each case this
+EULA shall be construed and enforced without regard to the United Nations Convention on the
+International Sale of Goods.
+This EULA contains the complete agreement between the parties with respect to the subject matter
+hereof, and supersedes all prior or contemporaneous agreements or understandings, whether oral
+or written. You agree that any varying or additional terms contained in any purchase order or other
+written notification or document issued by you in relation to the Software licensed hereunder shall
+be of no effect. The failure or delay of TBD to exercise any of its rights under this EULA or upon
+any breach of this EULA shall not be deemed a waiver of those rights or of the breach.
+If any provision of this EULA shall be held by a court of competent jurisdiction to be contrary to
+law, then that provision will be enforced to the maximum extent permissible and the remaining
+provisions of this EULA will remain in full force and effect.
+All questions concerning this EULA shall be directed to TBD. This EULA does not authorize you
+to use the trademarks of TBD or its suppliers.

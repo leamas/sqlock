@@ -1,0 +1,13 @@
+Source: opencpn-sglock-arm64
+Section: misc
+Priority: extra
+Build-Depends: debhelper-compat (= 13), libusb-dev
+Standards-Version: 4.6.2
+Rules-Requires-Root: no
+Maintainer: Dave Register <bdbcat@yahoo.com>
+
+Package: opencpn-sglock-arm64
+Architecture: arm64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: SGLock Dongle support library
+ For opencpn o-charts_pi plugin  support.

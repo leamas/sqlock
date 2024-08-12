@@ -1,0 +1,15 @@
+#!/usr/bin/make -f
+# -*- makefile -*-
+
+# Uncomment this to turn on verbose mode.
+#export DH_VERBOSE=1
+
+#include /usr/share/cdbs/1/rules/debhelper.mk
+
+%:
+	dh $@
+
+override_dh_install:
+	dh_install
+	rm -rf debian/.debhelper
+	rm -f debian/opencpn-sglock-arm64.debhelper.log
